@@ -1,17 +1,18 @@
-# Voice Assistant with OpenAI's GPT-3 and IBM Watson
+# Voice Assistant with OpenAI's GPT-3 and IBM Watson 🗣️🦻
+
 #### Author : Cognitive Class AI, Talha-Siddiqui3 Talha Siddiqui, arora-r Arora
 
 
-### Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of Build a Voice Assistant with OpenAI's GPT-3 and IBM Watson from CognitiveClass.ai
+### Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of Build a Voice Assistant with OpenAI's GPT-3 and IBM Watson from CognitiveClass.ai ✨✨
 
-##### Mentee Info
+##### Mentee Info 🔍
 
-##### Name : Noneng Ismaryanti
+##### Name : Noneng Ismaryanti 🌸🦋
 
-##### Program : IBM Advance AI 
+##### Program : IBM Advance AI 🤖🤖
 
-##### Tech Stack:
-- #### Python
+##### 💻 Tech Stack:
+- #### Python 🐍
 - #### HTML
 - #### CSS
 - #### JavaScript
